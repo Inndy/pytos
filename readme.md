@@ -27,6 +27,6 @@ I don't play Tower of Saviors anymore. :P
 
 ## License
 
-This program is released with WTFPL v2.
+This program is released under WTFPL v2.
 
 ![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)
